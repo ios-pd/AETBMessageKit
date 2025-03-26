@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AETBMessageKit'
-s.version = '1.0.3'
+s.version = '2.0.0'
   s.summary          = 'Mobile Test Framework'
   s.description      = 'This is a cocoapod to improve the security of mobile apps.'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
